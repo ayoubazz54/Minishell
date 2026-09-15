@@ -5,7 +5,7 @@ sudo apt update
 sudo apt install libreadline-dev
 ```
 
-then execute the caompilation commande in terminal:
+then execute the compilation commande in terminal:
 ```
 make
 ```
